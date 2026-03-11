@@ -1,4 +1,4 @@
-## hey there 👋 
+## hey there 👋 Welcome to my GitHub 🚀
 
 <!-- Animated Programming Banner -->
 
@@ -26,16 +26,23 @@
 * LinkedIn → www.linkedin.com/in/amruth-kiran-n-m-28a9402b9
 
 ---
-
 # 🚀 some stuff I’ve built
 
 ### 🏫 School Management System
 
 A complete web-based system to manage students, teachers, attendance, and academic records.
 
-### ⚡ Go Microservices Project
+### 🗑️ Samparka Sutra - Smart Waste Management System
 
-Distributed backend system built using **Go and containerized microservices**.
+A WhatsApp-powered smart waste management platform that connects citizens with NGOs for efficient waste collection, featuring intelligent messaging, real-time updates, and digital tracking of waste pickup requests.
+This was developed as a **PBL (Project-Based Learning) group project** and was awarded **2nd place in the class**.
+
+
+### 🧠 Strategic Enterprise Intelligence Engine
+
+An autonomous multi-agent business intelligence system that analyzes company domains, researches strategic context, and generates a company dossier with lead evaluation and a personalized outreach strategy for B2B sales.
+
+
 
 ---
 
@@ -118,12 +125,6 @@ Distributed backend system built using **Go and containerized microservices**.
 </tr>
 
 </table>
-
-
-# 📊 github stats
-![stats](https://github-readme-stats.vercel.app/api?username=AmruthkiranNM\&show_icons=true\&theme=tokyonight)
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmruthkiranNM\&layout=compact\&theme=tokyonight)
 
 ---
 
