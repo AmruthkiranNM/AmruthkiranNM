@@ -1,4 +1,4 @@
-## hey there 👋 ! amruth kiran 🚀
+## hey there 👋 
 
 ![github banner](https://capsule-render.vercel.app/api?type=waving\&color=0:00F7FF,100:6A5ACD\&height=200\&section=header\&text=Amruth%20Kiran\&fontSize=40\&fontColor=ffffff)
 
@@ -10,12 +10,12 @@
 
 🔎 **primarily interested in:** backend engineering, distributed systems, AI applications
 
-📧 **reach out:** [your-email@example.com](mailto:your-email@example.com)
+📧 **reach out:** [amruthnek@gmail.com](mailto:your-email@example.com)
 
 🎉 **socials:**
 
 * GitHub → https://github.com/AmruthkiranNM
-* LinkedIn → add your linkedin here
+* LinkedIn → www.linkedin.com/in/amruth-kiran-n-m-28a9402b9
 
 ---
 
