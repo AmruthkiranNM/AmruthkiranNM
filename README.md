@@ -2,9 +2,14 @@
 
 <!-- Animated Programming Banner -->
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=200&lines=printf(%22Hi%2C+I'm+Amruth+Kiran%22);Computer+Science+Engineer;Backend+Developer+%7C+AI+Enthusiast;Building+Cool+Projects+with+Code"/>
+<p align="center" style="margin:0;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=100000&color=39FF14&center=true&vCenter=true&width=750&height=60&lines=cout+%3C%3C+%22Amruth+Kiran%22+%3C%3C+endl%3B"/>
 </p>
+<p align="center" style="margin:0;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=100000&color=39FF14&center=true&vCenter=true&width=750&height=60&lines=cout+%3C%3C+%22Building+Cool+Projects%22+%3C%3C+endl%3B"/>
+</p>
+
+
 
 
 👨🏻‍💻 **alias:** @AmruthkiranNM
@@ -66,7 +71,7 @@ Distributed backend system built using **Go and containerized microservices**.
 <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
 <img src="https://skillicons.dev/icons?i=js" height="40"/>
 <img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=go" height="40"/>
+<img src="https://skillicons.dev/icons?i=java" height="40"/>
 
 </td>
 </tr>
