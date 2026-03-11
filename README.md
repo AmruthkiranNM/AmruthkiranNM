@@ -20,7 +20,6 @@
 
 📧 **reach out:** [amruthnek@gmail.com](mailto:your-email@example.com)
 
-🎉 **socials:**
 
 * GitHub → https://github.com/AmruthkiranNM
 * LinkedIn → www.linkedin.com/in/amruth-kiran-n-m-28a9402b9
@@ -32,7 +31,7 @@
 
 A complete web-based system to manage students, teachers, attendance, and academic records.
 
-### 🗑️ Samparka Sutra - Smart Waste Management System
+### 🗑️ SmartConnect(Samparka Sutra) - Smart Waste Management System
 
 A WhatsApp-powered smart waste management platform that connects citizens with NGOs for efficient waste collection, featuring intelligent messaging, real-time updates, and digital tracking of waste pickup requests.
 This was developed as a **PBL (Project-Based Learning) group project** and was awarded **2nd place in the class**.
