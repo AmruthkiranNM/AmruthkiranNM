@@ -1,4 +1,4 @@
-## hey there 👋 Welcome to my GitHub 🚀
+## hey there 👋 
 
 <!-- Animated Programming Banner -->
 
